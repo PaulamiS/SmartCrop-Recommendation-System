@@ -35,4 +35,4 @@ The goal of KrishiAI is to support farmers and agriculture enthusiasts by provid
 * Satellite & rainfall forecasting integration
 * Disease prediction system
 
-## LIVE DEMO:  https://paulamis.github.io/SmartCrop-Recommendation-System/
+## LIVE DEMO:  https://smart-crop-recommendation-system-gdlll4jah.vercel.app/
